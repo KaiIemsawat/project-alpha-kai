@@ -1,0 +1,26 @@
+{
+    "name": "Overgrown eartworm",
+    "attribute": {
+        "level_details": [
+            {
+                "level": 1,
+                "damage": 3,
+                "defend": 1,
+                "agility": 1,
+                "hp": 12,
+                "mp": 0
+            },
+            {
+                "level": 2,
+                "damage": 5,
+                "defend": 2,
+                "agility": 1,
+                "hp": 14,
+                "mp": 0
+            }
+        ],
+        "element": "earth",
+        "drops": "rock",
+        "skills": [{ "split": 0.2, "headbutt": 0.8 }]
+    }
+}
