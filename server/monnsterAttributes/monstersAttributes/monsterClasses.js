@@ -16,8 +16,8 @@ class Monster {
 
 // function used for generate ramdom number
 // Used to get a random monster from monster array. Also used to get a random monster level
-function getRandomValue(attributeArr) {
-    return Math.floor(Math.random() * attributeArr);
+function getRandomValue(attributeArrLength) {
+    return Math.floor(Math.random() * attributeArrLength);
 }
 
 // Array of monsters
